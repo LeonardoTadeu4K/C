@@ -1,1 +1,1 @@
-document.write(cachorroCachorro)
+alert(cachorro)
