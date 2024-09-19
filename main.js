@@ -1,1 +1,1 @@
-alert(cachorro)
+alert('cachorro')
