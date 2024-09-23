@@ -14,4 +14,4 @@ let areaquadrado=function(2){
 console.log(soma(4000,20));
 console.log(multiplicacao(4000,20));
 console.log(areaquadrado(4000));
-console.log(areaquadrado(4000,20));
+console.log(areaquadrado(4001,21));
