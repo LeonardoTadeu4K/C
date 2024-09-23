@@ -11,7 +11,7 @@ function areaquadrado(lado){
 let areatriangulo=function(base,altura){
     return (base*altura)/2;
 }
-let nome=Cachorro('Cachorro');
+let Cachorro=function('Cachorro');
 document.write(Orrohcac)
 
 console.log(soma(4000,20));
