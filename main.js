@@ -8,10 +8,10 @@ function multiplicacao(num3,num4){
 function areaquadrado(lado){
     return lado**2;
 }
-let areatriangulo=function(2){
+let areatriangulo=function(base,altura){
     return (base*altura)/2;
 }
 console.log(soma(4000,20));
 console.log(multiplicacao(4000,20));
 console.log(areaquadrado(4000));
-console.log(areatriangulo(4001,21));
+console.log(areatriangulo(4000,21));
