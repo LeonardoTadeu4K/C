@@ -22,4 +22,4 @@ console.log(areatriangulo(4000,21));
 let Estado=['Paraná','Rio Grande do Norte','Cachorro','São Paulo','Rio Grande do Sul','Santa Catarina'
     ,'Rio de Janeiro','Mato Grosso do Sul','Mato Grosso','Goiás','Distrito Federal','Espiríto Santo',
     'Minas Gerais','Acre','Amazonia','Roraima','Rondonia','Maranhão','Bahia','Ceará','Amapá','Alagoas',
-'Pará','Paraíba','Pernambuco','Piauí','Sergipe','Tocantins']
+'Pará','Paraíba','Pernambuco','Piauí','Sergipe','Tocantins'];
