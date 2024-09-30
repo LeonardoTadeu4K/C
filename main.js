@@ -25,7 +25,7 @@ let Estado=['Paraná','Rio Grande do Norte','Cachorro','São Paulo','Rio Grande 
 'Pará','Paraíba','Pernambuco','Piauí','Sergipe','Tocantins'];
 
 let i=0;
-while(i<10){
+while(i<Estado.length){
     console.log(i);
-    i=(+1);
+    i=i+1;
 }
