@@ -27,5 +27,6 @@ let Estado=['Paraná','Rio Grande do Norte','Cachorro','São Paulo','Rio Grande 
 let i=0;
 while(i<Estado.length){
     console.log(i);
+    console.log(Estado[i])
     i=i+1;
 }
