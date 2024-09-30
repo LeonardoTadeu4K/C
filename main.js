@@ -30,3 +30,11 @@ while(i<Estado.length){
     console.log(Estado[i])
     i=i+1;
 }
+
+let idade=17;
+if(idade>17){
+console.log ('Já pode beber')
+}
+else{
+console.log('Não pode')
+}
