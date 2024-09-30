@@ -31,7 +31,7 @@ while(i<Estado.length){
     i=i+1;
 }
 
-let idade=parseInt(prompt(qual é a sua idade));
+let idade=parseInt(prompt('qual é a sua idade'));
 if(idade>17){
 console.log ('Já pode beber')
 }
