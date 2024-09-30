@@ -38,3 +38,8 @@ console.log ('Já pode')
 else{
 console.log('Não pode')
 }
+
+for (let i=0; i < Estado.length; i++) {
+    const element = array[index];
+    console.log(Estado[i]);
+}
